@@ -1,1 +1,5 @@
-print("Hello")
+def add():
+  return 2+2
+
+result = add()
+print(result)
